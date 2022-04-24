@@ -76,6 +76,8 @@ VStack(alignment: .leading, spacing: 20) {
 ```
 That will align both text views horizontally to the leading edge (that’s left for left to right languages), and place 20 points of vertical space between them.
 
+# How to force views to one side inside a stack using Spacer
+
 
 
 
