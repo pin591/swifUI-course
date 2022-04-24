@@ -1,4 +1,4 @@
-# swifUI-notes
+# swifUI course
 Notes and examples from the SwiftUI by Example course from Hacking with
 
 Find listed the diferent topics treated
