@@ -2,9 +2,9 @@
 
 When we want more than one view on screen at a time you’ll usually want to tell SwiftUI how to arrange them, and that’s where stacks come in.
 
-Stacks are the equivalent to UIStackView in UIKit 
+Stacks are the equivalent to **UIStackView** in UIKit 
 
-Come in three forms: horizontal(HStack), vertical (VStack) and depth-based (ZStack),
+Come in three forms: horizontal **HStack**, vertical **VStack** and depth-based **ZStack**,
 
 ## VStack
 
